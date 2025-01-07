@@ -1,4 +1,5 @@
 # README for Blog Parser
+    When extracting a word or text file into an html file from an application(OpenOffice) or other medium, the extracted html file isn't      responsive to different screens. This python script reads the input file (word document) and add images, css file, responsive code        and produce an output file in the format of html.
 
 ## INSTALLATION
 
